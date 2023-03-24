@@ -46,12 +46,16 @@ This brought about the establishment of the perfect positive relationship.
 Fig 2: Heatmap, showing the relationship between the feature variables 
 
 ## Conclusion & Recommendation
-What did this analysis solve? What can be seen as the most important take out on this whole exploration process? After this thorough analysis, it threw many light on some areas: 1. The most important thing in this whole process is that games is all about Goals / Winning.
+What did this analysis solve? What can be seen as the most important take out on this whole exploration process? After this thorough analysis, it threw many light on some areas: 
+
+1. The most important thing in this whole process is that games is all about Goals / Winning.
 2. The Starting Time of Players are very important.
 3. The goals scored on non penalty seems special.
-4. Major top Players always avoid Cards whether Yellow or Red.
+4. Major top Players tends to attract Yellow Cards.
 5. Some Countries has been producing many top players for years. 
 
 Submission
+
+![WiDA Datathon Project Dashboard Using Excel Pivot Chart!](/Screen Shot 2023-03-24 at 9.24.18 PM.png)
 
 The drive that contains all the necessary document: **[Agape - Datathon](https://drive.google.com/drive/folders/173xjbmy-uLFp1bK6C87sP3rkpor0F8xT?usp=share_link)**.
