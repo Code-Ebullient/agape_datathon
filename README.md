@@ -45,7 +45,7 @@ This brought about the establishment of the perfect positive relationship.
 
 Fig 2: Heatmap, showing the relationship between the feature variables 
 
-3. Conclusion & Recommendation
+## Conclusion & Recommendation
 What did this analysis solve? What can be seen as the most important take out on this whole exploration process? After this thorough analysis, it threw many light on some areas: 1. The most important thing in this whole process is that games is all about Goals / Winning.
 2. The Starting Time of Players are very important.
 3. The goals scored on non penalty seems special.
