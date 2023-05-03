@@ -40,18 +40,18 @@ To further ensure that our data will be ready to be used, we cleaned up the data
 2. Understanding The Features (univariate) 
 Univariate analysis simply means analyzing each feature to ascertain their aggregates. 
 We used plotting features distributions like Bar, Histogram, Area, Density, Box etc to test each series. We were able to see the value counts of each series, their unique values and how their distributions can fit & will be presented. 
-![Screen Shot 2023-04-07 at 2 24 29 AM](https://user-images.githubusercontent.com/38101674/235924577-fb13e0fe-852a-46ad-a9c4-1978dd1d2e90.png)
+
+![Screen Shot 2023-05-03 at 2 21 46 PM](https://user-images.githubusercontent.com/38101674/235928714-ec8a2cbc-7d83-467b-8aef-5808131f65d2.png)
 
 
 Total number of goals series analysis 
 
 3. Features Relationships:
-![Screen Shot 2023-04-16 at 9 23 14 AM](https://user-images.githubusercontent.com/38101674/235924381-239a0beb-8d3e-4dce-8e22-9b2e18351c40.png)
-
 
 Comparing the features side by side using different functions / methods like scatter plot, Heatmap, Pairplot etc made us realize that there can be so much connecting two or more variables than anticipated.
 Visualization of the distributions of the data helped us to understand & determine its behaviours and patterns.  These went further to relate to us the relationships amongst the independent variables, amongst the dependent variables and between the independent & dependent ones. 
 This brought about the establishment of the perfect positive relationship.
+![Screen Shot 2023-05-03 at 2 22 04 PM](https://user-images.githubusercontent.com/38101674/235928794-ba21f49c-40f1-4277-93f0-b1927ee554cf.png)
 
 
 ## Conclusion & Recommendation
