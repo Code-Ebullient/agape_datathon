@@ -1,4 +1,5 @@
 # FIFA Women’s World Cup - WiDA Datathon
+![Screen Shot 2023-05-03 at 1 51 37 PM](https://user-images.githubusercontent.com/38101674/235921582-0e45db30-8148-45da-a4f8-12756be4e459.png)
 
 ─
 Prepared by Team Agape on 24.03.2023
@@ -24,26 +25,34 @@ By analyzing this dataset, we gained valuable insights into the evolution of wom
 
 The dataset used was gotten from kaggle: https://www.kaggle.com/datasets/mattop/fifa-womens-world-cup-stats which contains 136 number of Rows and 21 columns with so may insights on this highly competitive game.
 
+![Screen Shot 2023-05-03 at 2 01 48 PM](https://user-images.githubusercontent.com/38101674/235923735-92ba80f2-7e88-4121-8c48-7b87fcdc7cac.png)
+
 ### Dataset Exploration
 This is the first step/approach on analyzing any dataset. We get to understand the dataset, then went ahead to prepare and clean it for easy use in our analysis. 
 
 ## Data Cleaning and Transformation
 
-1. Data Preparation 
+1. Data Preparation:
+
 Towards understanding the dataset, some functions like shape, head, describe, info, columns were used to ascertain the core feature and its relatives.
 To further ensure that our data will be ready to be used, we cleaned up the data by removing duplicates, dropping irrelevant rows & columns and renaming the columns for easy identification. 
-Understanding The Features (univariate) 
+
+2. Understanding The Features (univariate) 
 Univariate analysis simply means analyzing each feature to ascertain their aggregates. 
-We used plotting features distributions like Bar, Histogram, Area, Density, Box etc to test each series. We were able to see the value counts of each series, their unique values and how their distributions can fit & will be presented.  
+We used plotting features distributions like Bar, Histogram, Area, Density, Box etc to test each series. We were able to see the value counts of each series, their unique values and how their distributions can fit & will be presented. 
+![Screen Shot 2023-04-07 at 2 24 29 AM](https://user-images.githubusercontent.com/38101674/235924577-fb13e0fe-852a-46ad-a9c4-1978dd1d2e90.png)
 
-Fig 1: Total number of goals series analysis 
 
-2. Features Relationships 
+Total number of goals series analysis 
+
+3. Features Relationships:
+![Screen Shot 2023-04-16 at 9 23 14 AM](https://user-images.githubusercontent.com/38101674/235924381-239a0beb-8d3e-4dce-8e22-9b2e18351c40.png)
+
+
 Comparing the features side by side using different functions / methods like scatter plot, Heatmap, Pairplot etc made us realize that there can be so much connecting two or more variables than anticipated.
 Visualization of the distributions of the data helped us to understand & determine its behaviours and patterns.  These went further to relate to us the relationships amongst the independent variables, amongst the dependent variables and between the independent & dependent ones. 
 This brought about the establishment of the perfect positive relationship.
 
-Fig 2: Heatmap, showing the relationship between the feature variables 
 
 ## Conclusion & Recommendation
 What did this analysis solve? What can be seen as the most important take out on this whole exploration process? After this thorough analysis, it threw many light on some areas: 
@@ -55,7 +64,6 @@ What did this analysis solve? What can be seen as the most important take out on
 5. Some Countries has been producing many top players for years. 
 
 Submission
-
-![WiDA Datathon Project Dashboard Using Excel Pivot Chart!](/Screen Shot 2023-03-24 at 9.24.18 PM.png)
+![Agape - Datathon](https://user-images.githubusercontent.com/38101674/235920738-6fdc68d3-bb3b-411c-9dec-cd2843852973.png)
 
 The drive that contains all the necessary document: **[Agape - Datathon](https://drive.google.com/drive/folders/173xjbmy-uLFp1bK6C87sP3rkpor0F8xT?usp=share_link)**.
